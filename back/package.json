@@ -2,7 +2,7 @@
     "name": "typescript-on-express",
     "version": "0.0.1",
     "description": "express server wrapped with typescript",
-    "author": "Rotem Grimberg",
+    "author": "Ido Gafni",
     "license": "MIT",
     "scripts": {
         "build": "npm run build-sass && npm run build-ts && npm run lint && npm run copy-static-assets",
